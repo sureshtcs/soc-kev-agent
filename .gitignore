@@ -1,0 +1,38 @@
+# Maven
+target/
+*.jar
+*.war
+.m2/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+eThumbs.db
+
+# Application
+logs/
+*.log
+.env
+.env.local
+local.properties
+
+# Database
+*.db
+*.sqlite
+
+# Temp
+.tmp/
+*.tmp
